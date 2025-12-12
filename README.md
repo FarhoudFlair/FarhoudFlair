@@ -53,26 +53,13 @@
 
 | Project | Description |
 |---------|-------------|
+| **[DeenBuddy](https://deenbuddy.app)** | A beautifully designed iOS app for Muslims featuring prayer times, Quran reading, Tasbih counter, and daily Islamic reminders. |
 | **[PortfolioRebalancer](https://github.com/FarhoudTalebi/PortfolioRebalancer)** | Rebalance portfolios or prep trades when cash lands; keeps allocations on target. |
 | **[HealthCareGovPrototype](https://github.com/FarhoudTalebi/HealthCareGovPrototype)** | UX prototype for a healthcare benefits experience; responsive, modern UI system. |
 | **[PersonalWebsite2025](https://github.com/FarhoudTalebi/PersonalWebsite2025)** | Next.js/Vercel build of [FarhoudTalebi.com](https://www.farhoudtalebi.com/) with SEO + fast perf scores. |
 | **[rental-property-calculator](https://github.com/FarhoudTalebi/rental-property-calculator)** | Real estate ROI and profitability calculator with expenses, cash flow, and equity modeling. |
 | **[mortgage-scenario-comparisons](https://github.com/FarhoudTalebi/mortgage-scenario-comparisons)** | Compare amortization schedules, term lengths, and payment options to reveal savings. |
 | **[StockScanner](https://github.com/FarhoudTalebi/StockScanner)** | Python screener implementing Mark Minervini criteria for S&P/NASDAQ/DOW/TSX watchlists. |
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhoudFlair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=FarhoudFlair&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhoudFlair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhoudFlair&color=blueviolet" alt="Profile Views"/>
-</p>
-
 
 
 ## Let's Connect
