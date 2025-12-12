@@ -32,13 +32,6 @@
 - **mortgage-scenario-comparisons** – Compare amortization schedules, term lengths, and payment options to reveal savings.
 - **StockScanner** – Python screener implementing Mark Minervini criteria for S&P/NASDAQ/DOW/TSX watchlists.
 
-## Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhoudFlair&show_icons=true&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=FarhoudFlair" alt="GitHub streak" />
-</p>
-
 ## Let's talk
 - 📫 Email: <a href="mailto:farhoudtalebi@gmail.com">farhoudtalebi@gmail.com</a>
 - 🤝 LinkedIn: <a href="https://www.linkedin.com/in/farhoudtalebi/">linkedin.com/in/farhoudtalebi</a>
