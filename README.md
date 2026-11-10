@@ -54,12 +54,13 @@
 | Project | Description |
 |---------|-------------|
 | **[DeenBuddy](https://deenbuddy.app)** | A beautifully designed iOS app for Muslims featuring prayer times, Quran reading, Tasbih counter, and daily Islamic reminders. |
-| **[PortfolioRebalancer](https://github.com/FarhoudTalebi/PortfolioRebalancer)** | Rebalance portfolios or prep trades when cash lands; keeps allocations on target. |
-| **[HealthCareGovPrototype](https://github.com/FarhoudTalebi/HealthCareGovPrototype)** | UX prototype for a healthcare benefits experience; responsive, modern UI system. |
-| **[PersonalWebsite2025](https://github.com/FarhoudTalebi/PersonalWebsite2025)** | Next.js/Vercel build of [FarhoudTalebi.com](https://www.farhoudtalebi.com/) with SEO + fast perf scores. |
-| **[rental-property-calculator](https://github.com/FarhoudTalebi/rental-property-calculator)** | Real estate ROI and profitability calculator with expenses, cash flow, and equity modeling. |
-| **[mortgage-scenario-comparisons](https://github.com/FarhoudTalebi/mortgage-scenario-comparisons)** | Compare amortization schedules, term lengths, and payment options to reveal savings. |
-| **[StockScanner](https://github.com/FarhoudTalebi/StockScanner)** | Python screener implementing Mark Minervini criteria for S&P/NASDAQ/DOW/TSX watchlists. |
+| **[Imposter Hunt](https://www.farhoudtalebi.com/imposter-hunt)** | Pass-the-phone party word game for iPhone (SwiftUI). Everyone gets the secret word except the imposter. [App Store](https://apps.apple.com/app/id6757217696) · [Code](https://github.com/FarhoudFlair/Imposter-Hunt) |
+| **[PortfolioRebalancer](https://github.com/FarhoudFlair/PortfolioRebalancer)** | Rebalance portfolios or prep trades when cash lands; keeps allocations on target. |
+| **[HealthCareGovPrototype](https://github.com/FarhoudFlair/HealthCareGovPrototype)** | UX prototype for a healthcare benefits experience; responsive, modern UI system. |
+| **[PersonalWebsite2025](https://github.com/FarhoudFlair/PersonalWebsite2025)** | Next.js/Vercel build of [FarhoudTalebi.com](https://www.farhoudtalebi.com/) with SEO + fast perf scores. |
+| **[rental-property-calculator](https://github.com/FarhoudFlair/rental-property-calculator)** | Real estate ROI and profitability calculator with expenses, cash flow, and equity modeling. |
+| **[mortgage-scenario-comparisons](https://github.com/FarhoudFlair/mortgage-scenario-comparisons)** | Compare amortization schedules, term lengths, and payment options to reveal savings. |
+| **[StockScanner](https://github.com/FarhoudFlair/StockScanner)** | Python screener implementing Mark Minervini criteria for S&P/NASDAQ/DOW/TSX watchlists. |
 
 
 ## Let's Connect
